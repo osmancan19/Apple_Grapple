@@ -1,0 +1,42 @@
+{
+  "ignores": [],
+  "groups": [
+    [
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/Characters/BaseCharacter.cs",
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/Characters/Enemy/Enemy.cs",
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/Characters/EnemyManager.cs",
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/End-card/LevelLoader.cs",
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/Characters/Player/Player.cs",
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/Characters/Enemy/EnemyMovement.cs",
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/Weapon/SpinningSword.cs",
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/Weapon/SpinningSwordController.cs",
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/Weapon/PickUpMapSword.cs",
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/GameStart/RandomMapSwordGenerator.cs",
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/GameStart/RandomTileGenerator.cs",
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/GameStart/RandomEnemyGenerator.cs",
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/Characters/HealthBar.cs",
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/Characters/DeathAnimation.cs"
+    ],
+    [
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/Characters/HealthBarCanvas.cs"
+    ],
+    [
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/Characters/Player/CameraFollow.cs"
+    ],
+    [
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/Characters/Player/PlayerMovement.cs"
+    ],
+    [
+      "C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage3/processed-scripts/Assets/Scripts/End-card/UrlDirectorFromButton.cs"
+    ],
+    [
+      "C:/Users/user/Desktop/Unity Playworks Plugin 6.1.1/pipeline/templates/LunaCompiler/Scripts/Properties/AssemblyInfo.cs"
+    ],
+    [
+      "C:/Users/user/Desktop/Unity Playworks Plugin 6.1.1/pipeline/templates/LunaCompiler/Scripts/Sources/OtherDummyScript.cs"
+    ],
+    [
+      "C:/Users/user/Desktop/Unity Playworks Plugin 6.1.1/pipeline/templates/LunaCompiler/Scripts/obj/Debug/.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+    ]
+  ]
+}

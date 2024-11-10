@@ -1,0 +1,198 @@
+report@config:load 30.90
+Authorized using stored user info.
+report@account:authorize 6.00
+Exporting assets from Unity.......
+
+[ Stage1 ] Assets exported from Unity and staged for further processing
+report@unity:export 4028.84
+report@config:load 15.25
+Using C:/Users/user/Documents/GitHub/Apple_Grapple/Assets/TextMesh Pro/Fonts/LiberationSans.ttf file to generate an atlas for LiberationSans[25000] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Combined 97 glyphs into bitmap texture at C:/Users/user/Documents/GitHub/Apple_Grapple/LunaTemp/stage1/tmp/fonts/LiberationSans-25000/output_0.png (56kb)
+Found custom rules for texture Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  {"maxWidth":512,"maxHeight":512,"format":"png32","compression":"none","quality":65,"script":"","ext":"","name":"Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset","isOverride":true}
+Found custom rules for texture Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  {"maxWidth":512,"maxHeight":512,"format":"png32","compression":"none","quality":65,"script":"","ext":"","name":"Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset","isOverride":true}
+Resources:
+{}
+report@assets:stage2 3120.62
+report@assets:stage3 144.29
+[ Stage2 ] Assets postprocessed and bundled successfully
+report@config:unity 0.08
+report@config:load 29.04
+report@config:unity 0.11
+report@code:compose 104.63
+Authorized using stored user info.
+report@account:authorize 3.39
+.NET Framework için MSBuild sürüm 17.11.9+a69bbaaf5
+
+Oluşturma başlatıldı: 1.11.2024 15:22:51.
+
+
+
+1 düğümünde "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" projesi (Rebuild hedef).
+
+CoreClean:
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" dosyası siliniyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" dosyası siliniyor.
+
+GenerateTargetFrameworkMonikerAttribute:
+Tüm çıkış dosyaları, giriş dosyalarına göre güncel durumda olduğundan "GenerateTargetFrameworkMonikerAttribute" hedefi atlanıyor.
+
+CoreCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_2022;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2022_3;UNITY_2022_3_51 /highentropyva+ /reference:"C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll" /reference:"C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" /reference:"C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" /reference:"C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll" /reference:"C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" /reference:"C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" /reference:"C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" /reference:"C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" /reference:"C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" /reference:"C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.6\TextMeshPro.dll" /reference:"C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" /reference:"C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" /reference:"C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /warnaserror- /utf8output /langversion:8 C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\Characters\BaseCharacter.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\Characters\DeathAnimation.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\Characters\Enemy\Enemy.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\Characters\Enemy\EnemyMovement.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\Characters\EnemyManager.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\Characters\HealthBar.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\Characters\HealthBarCanvas.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\Characters\Player\CameraFollow.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\Characters\Player\Player.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\Characters\Player\PlayerMovement.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\End-card\LevelLoader.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\End-card\UrlDirectorFromButton.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\GameStart\RandomEnemyGenerator.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\GameStart\RandomMapSwordGenerator.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\GameStart\RandomTileGenerator.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\Weapon\PickUpMapSword.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\Weapon\SpinningSword.cs C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\Weapon\SpinningSwordController.cs Properties/AssemblyInfo.cs Sources/OtherDummyScript.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\GameStart\RandomMapSwordGenerator.cs(15,50): warning CS0649: 'RandomMapSwordGenerator.randomTileGenerator' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\GameStart\RandomEnemyGenerator.cs(11,50): warning CS0649: 'RandomEnemyGenerator.randomTileGenerator' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\End-card\UrlDirectorFromButton.cs(5,20): warning CS0414: 'UrlDirectorFromButton.url' alanı atanır ancak değeri hiçbir zaman kullanılmaz [C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  CompilerServer: server - server processed compilation - Scripts
+
+_CopyFilesMarkedCopyLocal:
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll" konumuna kopyalanıyor.
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.6\TextMeshPro.dll" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.xml" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.xml" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.xml" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.xml" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.xml" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.xml" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.xml" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.xml" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml" konumuna kopyalanıyor.
+
+  "AlwaysCreate" belirtildiği için "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date" oluşturuluyor.
+
+  "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date" öğesine erişiliyor.
+
+CopyFilesToOutputDirectory:
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll" konumuna kopyalanıyor.
+
+  Scripts -> C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+
+  Dosya "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" konumundan "C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb" konumuna kopyalanıyor.
+
+BridgeNetCompilerTask:
+  Bridge started
+
+      To enable detailed logging, configure "logging" in bridge.json.
+      https://github.com/bridgedotnet/Bridge/wiki/global-configuration#logging
+
+  Bridge done
+
+"C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" Projesini Oluşturma İşlemi Tamamlandı (Rebuild hedef).
+
+
+Oluşturma başarılı oldu.
+
+
+
+"C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild hedefi) (1) ->
+(CoreCompile hedefi) -> 
+  C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\GameStart\RandomMapSwordGenerator.cs(15,50): warning CS0649: 'RandomMapSwordGenerator.randomTileGenerator' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\GameStart\RandomEnemyGenerator.cs(11,50): warning CS0649: 'RandomEnemyGenerator.randomTileGenerator' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\user\Documents\GitHub\Apple_Grapple\LunaTemp\stage3\processed-scripts\Assets\Scripts\End-card\UrlDirectorFromButton.cs(5,20): warning CS0414: 'UrlDirectorFromButton.url' alanı atanır ancak değeri hiçbir zaman kullanılmaz [C:\Users\user\Desktop\Unity Playworks Plugin 6.1.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+    3 Uyarı
+    0 Hata
+
+
+Geçen Süre 00:00:06.23
+
+Source code compiled successfully!
+﻿
+[ error ] $﻿
+Diagnostics gathered successfully
+report@code:build 10846.67
+report@diagnostics:verify 0.48
+report@diagnostics:upload 1383.35
+report@code:stage 7766.92
+[ Stage3 ] Code compiled and bundled successfully.
+report@code:bundle 20136.54
+report@package:stage 760.04
+[ Stage4 ] Target platform: develop
+[ Stage4 ] Package bundled successfully
+report@assets:stats 0.12
